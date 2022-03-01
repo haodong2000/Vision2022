@@ -1,0 +1,2 @@
+# SFC_Soft_Machine_Vision_of_Smart_Factory
+浙江大学学生智能工厂创新俱乐部《智能工厂软机器视觉教学》社团精品课程

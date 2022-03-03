@@ -1,3 +1,3 @@
-@REM F:\Python310\python.exe -m pip install freeze 
+@REM F:\Python399\python.exe -m pip install freeze 
 
-F:\Python310\python.exe -m pip freeze > ..\requirements.txt
+F:\Python399\python.exe -m pip freeze > ..\requirements.txt

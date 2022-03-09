@@ -6,9 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-# Li
+# New!!!
 .dist/
 data/
+model/
 
 # Distribution / packaging
 .Python

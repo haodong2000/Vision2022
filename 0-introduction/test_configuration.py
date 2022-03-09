@@ -25,6 +25,13 @@ def download_mnist():
     data_test = MNIST(root="../data/",
                       transform=transform,
                       train=False)
+    data_fa_train = FashionMNIST(root="../data/",
+                                 transform=transform,
+                                 train=True,
+                                 download=True)
+    data_fa_test = FashionMNIST(root="../data/",
+                                transform=transform,
+                                train=False)
 
 
 if __name__ == '__main__':

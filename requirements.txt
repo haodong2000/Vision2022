@@ -15,6 +15,7 @@ blinker==1.4
 cachetools==5.0.0
 certifi==2021.10.8
 cffi==1.15.0
+chardet==3.0.4
 charset-normalizer==2.0.12
 click==8.0.4
 colorama==0.4.4
@@ -26,7 +27,7 @@ defusedxml==0.7.1
 docopt==0.6.2
 entrypoints==0.4
 executing==0.8.3
-flatbuffers<3.0,>=1.12
+flatbuffers==1.12
 fonttools==4.29.1
 gast==0.4.0
 gitdb==4.0.9
@@ -34,6 +35,7 @@ GitPython==3.1.27
 google-auth==2.6.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
+graphviz==0.8.4
 grpcio==1.44.0
 h5py==3.6.0
 idna==3.3
@@ -44,6 +46,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.6.5
 jedi==0.18.1
 Jinja2==3.0.3
+joblib==1.1.0
 json5==0.9.6
 jsonschema==4.4.0
 jupyter==1.0.0
@@ -55,10 +58,12 @@ jupyterlab==3.3.0
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.10.3
 jupyterlab-widgets==1.0.2
+jupyterthemes==0.20.0
 keras==2.7.0
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
 kiwisolver==1.3.2
+lesscpy==0.15.0
 libclang==13.0.0
 Markdown==3.3.6
 MarkupSafe==2.1.0
@@ -86,6 +91,7 @@ parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.0.1
 pipreqs==0.4.11
+ply==3.11
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
 protobuf==3.19.4
@@ -112,6 +118,7 @@ requests-oauthlib==1.3.1
 rise==5.7.1
 rsa==4.8
 scikit-learn==0.24.1
+scipy==1.8.0
 Send2Trash==1.8.0
 SimpleGUITk==1.1.3
 six==1.16.0
@@ -128,7 +135,8 @@ tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 terminado==0.13.1
 testpath==0.6.0
-tf2onnx
+tf2onnx==1.9.3
+threadpoolctl==3.1.0
 toml==0.10.2
 toolz==0.11.2
 torch==1.10.2

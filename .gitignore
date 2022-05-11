@@ -11,6 +11,7 @@ __pycache__/
 data/
 model/
 result/
+tmp/
 
 # Distribution / packaging
 .Python

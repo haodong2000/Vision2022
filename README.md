@@ -2,6 +2,8 @@
 
 浙江大学学生智能工厂创新俱乐部《智能工厂软机器视觉教学》社团精品课程
 
+https://lebronlihd.github.io/Vision2022/
+
 &copy; 李浩东 3190104890@zju.edu.cn
 
 &copy; 王小龙 3180105098@zju.edu.cn

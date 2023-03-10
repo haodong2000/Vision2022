@@ -17,9 +17,5 @@ https://lebronlihd.github.io/Vision2022/
 - 神经网络基础：神经元结构、多层感知机、手写数字识别、损失函数
 - 神经网络基础：梯度下降、`Back Propagation`
 - 神经网络基础：`Softmax`回归、深度神经网络、卷积神经网络
-- 神经网络基础：循环神经网络、`NLP`自然语言处理、服务器资源、线上课程资源
+- 神经网络基础：循环神经网络、`NLP`自然语言处理、生成对抗网络、服务器资源
 - 大作业与答疑：象棋棋盘识别系统
-
-### 相关信息
-
-- [website link](https://lebronlihd.github.io/Vision2022/)

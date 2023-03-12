@@ -19,7 +19,7 @@ https://lebronlihd.github.io/Vision2022/
 - Neural network basics: Neuron structure, Multi-layer Perceptron, Handwritten digit recognition, Loss function
 - Neural Network Basics: Gradient Descent, Backpropagation
 - Neural network basics: Softmax regression, Deep neural network, Convolutional Neural Network
-- Neural Network Basics: Recurrent Neural Networks, Transformer, Natural Language Processing, Reinforcement Learning, Generative Adversarial Networks, Server Resources
+- Neural Network Basics: Recurrent Neural Networks, Attention Mechanism & Transformer, Natural Language Processing, Reinforcement Learning, Generative Adversarial Networks, Server Resources
 - Final project and Q&A: Chess board recognition system
 
 ### 课程大纲
@@ -31,7 +31,7 @@ https://lebronlihd.github.io/Vision2022/
 - 神经网络基础：神经元结构、多层感知机、手写数字识别、损失函数
 - 神经网络基础：梯度下降、反向传播
 - 神经网络基础：Softmax回归、深度神经网络、卷积神经网络
-- 神经网络基础：循环神经网络、Transformer、自然语言处理、强化学习、生成对抗网络、服务器资源
+- 神经网络基础：循环神经网络、注意力机制 & Transformer、自然语言处理、强化学习、生成对抗网络、服务器资源
 - 大作业与答疑：象棋棋盘识别系统
 
 ### Reference

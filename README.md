@@ -12,13 +12,13 @@ https://lebronlihd.github.io/Vision2022/
 
 ### Course Outline
 
-- Image basics: pixels, colors, image formats
-- Image processing techniques: filtering, binarization, cutting, morphological transformation, scale and rotation transformation, image gradient
-- Image pattern recognition: line and circle detection, feature point detection, edge detection
-- Image pattern recognition: Blob detection, feature point detection, template matching
-- Neural network basics: neuron structure, multi-layer perceptron, handwritten digit recognition, loss function
+- Image basics: Pixels, Colors, Image formats
+- Image processing techniques: Filtering, Binarization, cutting, Morphological transformation, Scale and rotation transformation, Image gradient
+- Image pattern recognition: Line and circle detection, Feature point detection, Edge detection
+- Image pattern recognition: Blob detection, Feature point detection, Template matching
+- Neural network basics: Neuron structure, Multi-layer Perceptron, Handwritten digit recognition, Loss function
 - Neural Network Basics: Gradient Descent, Backpropagation
-- Neural network basics: Softmax regression, deep neural network, convolutional neural network
+- Neural network basics: Softmax regression, Deep neural network, Convolutional Neural Network
 - Neural Network Basics: Recurrent Neural Networks, Transformer, Natural Language Processing, Reinforcement Learning, Generative Adversarial Networks, Server Resources
 - Big homework and Q&A: Chess board recognition system
 

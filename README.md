@@ -20,7 +20,7 @@ https://lebronlihd.github.io/Vision2022/
 - Neural Network Basics: Gradient Descent, Backpropagation
 - Neural network basics: Softmax regression, Deep neural network, Convolutional Neural Network
 - Neural Network Basics: Recurrent Neural Networks, Transformer, Natural Language Processing, Reinforcement Learning, Generative Adversarial Networks, Server Resources
-- Big homework and Q&A: Chess board recognition system
+- Final project and Q&A: Chess board recognition system
 
 ### 课程大纲
 

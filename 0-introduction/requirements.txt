@@ -1,3 +1,5 @@
+d2l==1.0.0-beta0
+openai
 absl-py==1.0.0
 altair==4.2.0
 anyio==3.5.0

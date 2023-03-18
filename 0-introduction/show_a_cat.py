@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 
+
+"""
+run `python show_a_cat.py`
+after `cd 0-introduction/` ! ! !
+"""
+
+
 import cv2
 from IPython import display
 from torchvision.datasets import MNIST, FashionMNIST
@@ -13,23 +20,24 @@ def show_image(path):
     cv2.imshow("kitty", img)
     key = cv2.waitKey(0)
     if key == 'q' or key == '27':
+        # `27` is ESC
         cv2.destroyAllWindows()
 
 
 def download_mnist():
     transform = transforms.Compose([transforms.ToTensor()])
-    data_train = MNIST(root="../data/",
+    data_train = MNIST(root="../../data/",
                        transform=transform,
                        train=True,
                        download=True)
-    data_test = MNIST(root="../data/",
+    data_test = MNIST(root="../../data/",
                       transform=transform,
                       train=False)
-    data_fa_train = FashionMNIST(root="../data/",
+    data_fa_train = FashionMNIST(root="../../data/",
                                  transform=transform,
                                  train=True,
                                  download=True)
-    data_fa_test = FashionMNIST(root="../data/",
+    data_fa_test = FashionMNIST(root="../../data/",
                                 transform=transform,
                                 train=False)
 

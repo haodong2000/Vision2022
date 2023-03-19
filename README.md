@@ -1,10 +1,10 @@
 # Vision2022
 
-Slides of "Machine Vision" course by Zhejiang University Student Smart Factory Innovation Club
+**Slides of "Machine Vision" course by Zhejiang University Student Smart Factory Innovation Club**
 
-浙江大学学生智能工厂创新俱乐部《智能工厂软机器视觉教学》社团精品课程
+**浙江大学学生智能工厂创新俱乐部《智能工厂软机器视觉教学》社团精品课程**
 
-https://lebronlihd.github.io/Vision2022/
+**Course Website: https://lebronlihd.github.io/Vision2022/**
 
 ### Course Outline
 

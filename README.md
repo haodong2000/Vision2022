@@ -6,10 +6,6 @@ Slides of "Machine Vision" course by Zhejiang University Student Smart Factory I
 
 https://lebronlihd.github.io/Vision2022/
 
-&copy; 李浩东 3190104890@zju.edu.cn
-
-&copy; 王小龙 3180105098@zju.edu.cn
-
 ### Course Outline
 
 - Image basics: Pixels, Colors, Image formats

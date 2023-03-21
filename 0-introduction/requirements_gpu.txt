@@ -82,6 +82,7 @@ notebook-shim==0.1.0
 numpy==1.22.2
 oauthlib==3.2.0
 onnx==1.10.1
+openai
 opencv-contrib-python==4.5.5.62
 opencv-python==4.5.5.62
 opt-einsum==3.3.0
@@ -140,8 +141,9 @@ tf2onnx==1.9.3
 threadpoolctl==3.1.0
 toml==0.10.2
 toolz==0.11.2
-torch==1.10.2
-torchvision==0.11.3
+torch==1.10.2+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+torchvision==0.11.3+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+torchaudio==0.10.2 -f https://download.pytorch.org/whl/cu113/torch_stable.html
 tornado==6.1
 tqdm==4.63.0
 traitlets==5.1.1
@@ -159,4 +161,3 @@ widgetsnbextension==3.5.2
 wrapt==1.13.3
 yarg==0.1.9
 zipp==3.7.0
-openai

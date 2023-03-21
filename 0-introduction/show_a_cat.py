@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
-"""
-run `python show_a_cat.py`
-after `cd 0-introduction/` ! ! !
-"""
-
-
 import cv2
 from IPython import display
 from torchvision.datasets import MNIST, FashionMNIST

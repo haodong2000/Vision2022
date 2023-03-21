@@ -26,22 +26,22 @@ def show_image(path):
 
 def download_mnist():
     transform = transforms.Compose([transforms.ToTensor()])
-    data_train = MNIST(root="../../data/",
+    data_train = MNIST(root="../data/",
                        transform=transform,
                        train=True,
                        download=True)
-    data_test = MNIST(root="../../data/",
+    data_test = MNIST(root="../data/",
                       transform=transform,
                       train=False)
-    data_fa_train = FashionMNIST(root="../../data/",
+    data_fa_train = FashionMNIST(root="../data/",
                                  transform=transform,
                                  train=True,
                                  download=True)
-    data_fa_test = FashionMNIST(root="../../data/",
+    data_fa_test = FashionMNIST(root="../data/",
                                 transform=transform,
                                 train=False)
 
 
 if __name__ == '__main__':
     download_mnist()
-    show_image("../images/cat.jpg")
+    show_image("./images/cat.jpg")

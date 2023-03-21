@@ -12,10 +12,10 @@
 - Image processing techniques: Filtering, Binarization, cutting, Morphological transformation, Scale and rotation transformation, Image gradient
 - Image pattern recognition: Line and circle detection, Feature point detection, Edge detection
 - Image pattern recognition: Blob detection, Feature point detection, Template matching
-- Neural network basics: Neuron structure, Multi-layer Perceptron, Handwritten digit recognition, Loss function
-- Neural Network Basics: Gradient Descent, Backpropagation
-- Neural network basics: Softmax regression, Deep neural network, Convolutional Neural Network, Server Resources
-- Neural Network Basics: Recurrent Neural Networks, Attention Mechanism & Transformer, Natural Language Processing, Reinforcement Learning, Generative Adversarial Networks
+- Neural Network basics: Neuron structure, Multi-layer Perceptron, Handwritten digit recognition, Loss function
+- Neural Network basics: Gradient Descent, Backpropagation
+- Modern Neural Network: Softmax regression, Deep neural network, Convolutional Neural Network, Server Resources
+- Modern Neural Network: Recurrent Neural Networks, Attention Mechanism & Transformer, Natural Language Processing, Reinforcement Learning, Generative Adversarial Networks
 - Final project and Q&A: Chess board recognition system
 
 ### 课程大纲

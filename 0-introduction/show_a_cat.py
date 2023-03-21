@@ -5,7 +5,17 @@ from IPython import display
 from torchvision.datasets import MNIST, FashionMNIST
 from torchvision import transforms
 import time
+import torch
+import tensorflow as tf
 
+def gpu_information():
+    print(torch.cuda.is_available())
+    # let's see the list of CUDA architectures, and the device name
+    if torch.cuda.is_available():
+        print(torch.cuda.get_device_name(device=None), torch.cuda.get_arch_list())
+    print(tf.test.is_gpu_available())
+    # tf.test.is_gpu_available() is deprecated and will be removed soon
+    tf.config.list_physical_devices('GPU') 
 
 def show_image(path):
     print(path)
@@ -15,7 +25,6 @@ def show_image(path):
     if key == 'q' or key == '27':
         # `27` is ESC
         cv2.destroyAllWindows()
-
 
 def download_mnist():
     transform = transforms.Compose([transforms.ToTensor()])
@@ -34,7 +43,7 @@ def download_mnist():
                                 transform=transform,
                                 train=False)
 
-
 if __name__ == '__main__':
     download_mnist()
     show_image("./images/cat.jpg")
+    gpu_information()

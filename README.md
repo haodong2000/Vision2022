@@ -29,7 +29,7 @@
 
   * Open the terminal in the directory where the file is located.
 
-    <img src="images/readme-img/cmd.jpg" alt="img" style="zoom:60%;" />
+    <img src="images/readme-img/cmd.png" alt="img" style="zoom:60%;" />
 
   * open jupyter notebook in terminal
 

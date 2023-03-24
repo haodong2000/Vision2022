@@ -21,7 +21,7 @@
 - 图像模式识别：Blob检测、特征点检测、模板匹配
 
 ### Usage
-- if you are new to **Python**、**jupyter notebook** or **markdown**，You can refer to this [link](https://lebronlihd.github.io/blog/2022/basic-tutorial/)
+- if you are new to **Python**, **jupyter notebook** or **markdown**, You can refer to this [link](https://lebronlihd.github.io/blog/2022/basic-tutorial/)
 
 - Here is a simple usage for **Windows** users:
 
@@ -31,14 +31,16 @@
 
     <img src="images/readme-img/cmd.jpg" alt="img" style="zoom:60%;" />
 
-  * activate the environment configured for this class and open jupyter notebook in terminal
+  * open jupyter notebook in terminal
 
     * If you have not yet configured the environment required for this course, please refer to the '0-introduction.ipynb' file.
 
     * type in your terminal:
 
-      `conda activate <environment name> | jupyter notebook`
+      (for conda)`conda activate <environment name> | jupyter notebook`
 
+      (for pip)`jupyter notebook`
+    
     * Then the interface of jupyter notebook will be displayed on your browser.
 
 

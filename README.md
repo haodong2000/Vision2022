@@ -37,9 +37,9 @@
 
     * type in your terminal:
 
-      (for conda)`conda activate <environment name> | jupyter notebook`
+      (for conda)`conda activate <environment name> | jupyter notebook .`
 
-      (for pip)`jupyter notebook`
+      (for pip)`jupyter notebook .`
     
     * Then the interface of jupyter notebook will be displayed on your browser.
 

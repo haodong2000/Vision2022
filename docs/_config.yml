@@ -23,7 +23,7 @@ email: haodongli@zju.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   Enjoy coding, enjoy life! 
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/lebronlihd/Vision2022" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Haodong Li
 github_username:  Vision2022
 

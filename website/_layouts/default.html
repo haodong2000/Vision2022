@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body background="/backgroundmsc.jpg" style="background-repeat: no-repeat; background-size: 100% 100% ; background-attachment: fixed;" >
+
+    {%- include header.html -%}
+    
+    <main class="page-content" aria-label="Content">
+      {%- if page.category == home -%}
+      <div style="text-align: center;"><img src="/home.png" alt="Fail" width=50%/></div>
+      {%- elsif page.category == "Python" -%}
+      <img src="/Python/Python.png" alt="Fail" />
+      {%- elsif page.category == "C/C++" -%}
+      <div style="text-align: center;"><img src="/C-C++/C++.png" alt="Fail" width= 54%/></div>
+      {%- elsif page.category == "Swift/iOS" -%}
+      <img src="/Swift-iOS/Swift.png" alt="Fail"/>
+      {%- endif -%}
+
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -4,7 +4,7 @@
 
 **浙江大学学生智能工厂创新俱乐部《智能工厂软机器视觉教学》社团精品课程**
 
-**Course Website: https://lebronlihd.github.io/Vision2022/**
+**Course Website: [https://lebronlihd.github.io/Vision2022/](https://haodong-li.com/zju/tag/vision-2022/)**
 
 ### Course Outline
 
